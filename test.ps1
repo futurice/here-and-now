@@ -1,1 +1,0 @@
-./gradlew --parallel --info connectedCheck
