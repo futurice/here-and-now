@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Here and Now</string>
+
+    <!-- Toolbar -->
+    <string name="settings_title">Settings</string>
+    <string name="close_service_title">Close background service</string>
+
+
+    <!-- Topic -->
+    <string name="topic_create_title">Creating a New Topic</string>
+    <string name="topic_title_hint">Topic title</string>
+    <string name="topic_create_success">New topic published</string>
+    <string name="topic_delete_confirmation">Are you sure you want to delete this card?</string>
+    <string name="topic_flag_confirmation">Are you sure you want to report this as inappropriate?</string>
+
+    <!-- Card -->
+    <string name="card_title">Card title</string>
+    <string name="card_text">Leave a comment</string>
+    <string name="card_title_placeholder">Card Title</string>
+    <string name="card_picture_select">Select Picture</string>
+    <string name="card_video_select">Select Video</string>
+    <string name="card_create_title">Add a New Card</string>
+    <string name="card_create_success">New card published</string>
+    <string name="card_send_to_big_screen">Send to a Big Screen nearby.</string>
+    <string name="card_like_toast_message"><![CDATA[You like -> card moves up Trending. Thanks!]]></string>
+    <string name="card_unlike_toast_message"><![CDATA[You unlike -> card moves down Trending. Thanks!]]></string>
+    <string name="card_liked_this">%d people liked this:</string>
+    <string name="card_liked_this_singular">%d person liked this:</string>
+    <string name="card_discard">Discard</string>
+    <string name="card_submit">Submit</string>
+    <string name="card_comment">Comment</string>
+    <string name="card_take_picture_label">Take a new picture</string>
+    <string name="optional_picture_text">Add picture (optional)</string>
+    <string name="optional_video_text">Add video (optional)</string>
+
+
+    <!-- People -->
+    <string name="people_about_me">About Me:</string>
+    <string name="people_tag">Tag:</string>
+    <string name="people_tag_anonymous">anonymous</string>
+    <string name="people_about_me_empty">(empty)</string>
+    <string name="people_user_not_found">User: %1$s is not currently available</string>
+
+    <!-- Search -->
+    <string name="search_title">Search</string>
+    <string name="search_hint_trending">Search trending</string>
+    <string name="search_hint_happening_now">Search happening now</string>
+    <string name="search_hint_people">Search for people</string>
+
+    <!-- Settings -->
+    <string name="title_activity_settings">ACTIVITY</string>
+    <string name="pref_header_general">Settings</string>
+    <string name="pref_my_tag_title">My @tag (visible to everyone)</string>
+    <string name="pref_my_tag_default">anonymous</string>
+    <string name="pref_about_me_title">About Me</string>
+    <string name="pref_about_me_default"></string>
+
+    <!-- Tab titles -->
+    <string name="tab_trending_title">Trending</string>
+    <string name="tab_now_title">Now</string>
+    <string name="tab_people_nearby_title">People</string>
+
+    <!-- Generic -->
+    <string name="gen_ok">Ok</string>
+    <string name="gen_cancel">Cancel</string>
+    <string name="gen_delete">Delete</string>
+    <string name="gen_select_media">Select media</string>
+    <string name="gen_select_picture">Select media</string>
+
+    <string name="error_non_local_file">You can only share local files.</string>
+
+</resources>

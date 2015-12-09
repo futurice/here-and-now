@@ -1,0 +1,5 @@
+# Copy this file to "release.properties" and edit the values to match your keystore
+keyStore=../../moses.keystore
+storePassword=12345
+keyAlias=hereandnow
+keyAliasPassword=12345
